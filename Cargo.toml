@@ -1,6 +1,6 @@
 [package]
 name = "buntrail-ffi"
-version = "0.4.1"
+version = "0.4.2"
 edition = "2024"
 rust-version = "1.99.1"
 description = "Native C ABI for the Buntrail engine."
@@ -15,8 +15,8 @@ authors = ["Bunga Mungil <bungamungil@icloud.com>"]
 crate-type = ["staticlib", "cdylib", "rlib"]
 
 [dependencies]
-buntrail-core = "0.4.1"
-buntrail-engine = "0.4.1"
+buntrail-core = "0.4.2"
+buntrail-engine = "0.4.2"
 serde_json = "=1.0.154"
 
 [build-dependencies]
