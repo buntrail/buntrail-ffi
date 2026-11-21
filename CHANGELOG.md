@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.1
+
+Use the recovery-aware engine through the existing C ABI 1.
+
 ## 0.5.0
 
 Expose the updated workspace engine through the existing ABI.
